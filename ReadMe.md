@@ -1,4 +1,4 @@
-# Warning: (Potentially unsafe to run as API may be compromised) Please see screenshots in the repo.
+# Warning: (Potentially unsafe to run as https://petstore.swagger.io API may be compromised) Please see screenshots in the repo.
 
 # Pet Store Console Application
 This is a console based client for the https://petstore.swagger.io/ APIs. It allows the user to view all available pets, sorted by category
